@@ -1,0 +1,13 @@
+body{
+	background-color:lightblue;
+}
+
+h1{
+	color:red
+}
+
+p{
+	font-size: 25px;
+}
+ul{margin-left: auto;}
+ul{margin-right: auto;}
